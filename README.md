@@ -13,7 +13,6 @@ The project utilizes the [Cardiovascular Study Dataset](https://www.kaggle.com/d
 ## Repository Structure
 The repository is structured as follows:
 
-- `DA_PY_4_4.ipynb`: Turing College project description and requirements.
 - `Predictive_Modeling_Logistic_Regression.ipynb`: Jupyter Notebook containing the whole project, including data cleaning, EDA, preprocessing and logistic regression modelling and evaluation.
 - `README.md`: This file, providing an overview of the project.
 - `outliers_function.py`: Python script containing the function for identifying outliers and removing extreme outliers.
