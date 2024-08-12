@@ -16,8 +16,7 @@ The repository is structured as follows:
 - `DA_PY_4_4.ipynb`: Turing College project description and requirements.
 - `Predictive_Modeling_Logistic_Regression.ipynb`: Jupyter Notebook containing the whole project, including data cleaning, EDA, preprocessing and logistic regression modelling and evaluation.
 - `README.md`: This file, providing an overview of the project.
-- `extreme_outliers_function.py`: Python script containing the function for removing extreme outliers.
-- `outliers_function.py`: Python script containing the function for identifying outliers.
+- `outliers_function.py`: Python script containing the function for identifying outliers and removing extreme outliers.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 - `train.csv`: The dataset used for model development.
 
